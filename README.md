@@ -2,6 +2,8 @@
 
 Example for using Nuxt SVG module with 3rd party icon libraries. Created as a reply to this issue: [How to import SVG Icons from node_modules folder? #54](https://github.com/nuxt-community/svg-module/issues/54)
 
+## CodeSandbox link: https://codesandbox.io/s/smoosh-snowflake-tsnqc
+
 ## Build Setup
 
 ```bash
